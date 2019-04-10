@@ -2,7 +2,7 @@
   "name": "mitm",
   "version": "1.0.0",
   "description": "An mitm pen testing module",
-  "main": "index.js",
+  "main": "server.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
@@ -15,5 +15,13 @@
   "bugs": {
     "url": "https://github.com/Sarps/mitm/issues"
   },
-  "homepage": "https://github.com/Sarps/mitm#readme"
+  "homepage": "https://github.com/Sarps/mitm#readme",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "cookie-parser": "^1.4.4",
+    "express": "^4.16.4",
+    "request": "^2.88.0",
+    "request-promise": "^4.2.4",
+    "websocket": "^1.0.28"
+  }
 }
