@@ -1,0 +1,19 @@
+{
+  "name": "mitm",
+  "version": "1.0.0",
+  "description": "An mitm pen testing module",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Sarps/mitm.git"
+  },
+  "author": "Emmanuel Oppong-Sarpong",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Sarps/mitm/issues"
+  },
+  "homepage": "https://github.com/Sarps/mitm#readme"
+}
